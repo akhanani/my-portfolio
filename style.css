@@ -1,0 +1,44 @@
+body{
+    padding-top: 0;
+    background-color: Front-End;
+    background-color: grey;
+}
+.Portfolio{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header{
+    background-color: cornflowerblue;
+    background: Front-End;
+    border-button:3px solid;
+}
+header a{
+color:#ffff;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 16px;
+}
+header ul{
+    margin:0;
+    padding: 0;
+}
+header li{
+    float:left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+#show{
+   min-height: 400px;
+   min-width: 500px;
+   background: url no-repeat 0 -400px;
+   margin-top: 20px;
+}
+.container img {
+transform: rotate(90deg);
+}
+
+.op{
+  margin: 20px;
+}
